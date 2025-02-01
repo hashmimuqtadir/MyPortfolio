@@ -40,33 +40,4 @@ Make sure you have the following installed:
    ```bash
    npm run dev
 
----
 
-## 🖌️ Customization
--Edit Components: Modify the src/components folder to customize the sections.
--Update Images: Replace images in the public/ folder with your own.
-
-
----
-
-## 🤝 Contribution
-Contributions are welcome! Feel free to fork this repo and submit a pull request. For major changes, please open an issue first.
-
----
-
-## ⭐ Acknowledgments
-Special thanks to the open-source community and the creators of React, Vite, and Tailwind CSS.
-
----
-
-##  📝 Contact
-Special thanks to the open-source community and the creators of React, Vite, and Tailwind CSS.
-
-For questions, suggestions, or feedback:
-
-
-YouTube:[ Code & Chill](https://youtu.be/-1i87q_H4lg?si=dBm_KSQ26pNiNReX)
-
-TikTok: [@CodeChill23](https://www.tiktok.com/@codechill23)
-
-Don’t forget to ⭐ this repository if you find it helpful!
